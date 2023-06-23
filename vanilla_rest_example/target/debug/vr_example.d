@@ -1,0 +1,1 @@
+/home/test1/Projects/Rust/vanilla_rest/vanilla_rest_example/target/debug/vr_example: /home/test1/Projects/Rust/vanilla_rest/vanilla_rest_example/src/main.rs /home/test1/Projects/Rust/vanilla_rest/vanilla_rest_lib/src/lib.rs
